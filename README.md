@@ -11,19 +11,9 @@ We the team of six developed Graphical Password Authentication System || Smart I
 
 
 
-## Team ✨
+SATYAPRAKASH SHRIRAM 
 
-- Saransh Vashisht
-
-- Sushant Kumar
-
-- Sourabh Tripathi
-
-- Rahul Kushwaha
-
-- Ramakant Kumar
-
-- Ash Aggarwal
+-
 
 
 ## Screenshots📸
@@ -39,9 +29,3 @@ We the team of six developed Graphical Password Authentication System || Smart I
 ### Login Failure
 ![Login failure](https://github.com/saransh-vashisht/Graphical-Pasword-Authentication-Prototype/blob/main/screenshots/Login%20failed.png?raw=true)
 
-### Login Failure Notification
-![Login failure notifs](https://github.com/saransh-vashisht/Graphical-Pasword-Authentication-Prototype/blob/main/screenshots/Login%20fail%20notification.png?raw=true)
-
-
-### Password Reset Notification
-![Password notification](https://github.com/saransh-vashisht/Graphical-Pasword-Authentication-Prototype/blob/main/screenshots/Password%20reset.png?raw=true)
